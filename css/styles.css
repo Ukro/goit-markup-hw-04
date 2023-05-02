@@ -616,3 +616,7 @@ button {
 .img-social-network:focus {
   background-color: var(--hover-color);
 }
+
+.social-network-svg {
+  fill: #f4f4fd;
+}
