@@ -305,6 +305,8 @@ body {
 
 .section-one-plus {
   padding: 188px 0;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .heder-sectione-one {
@@ -578,4 +580,39 @@ button {
   background-color: #f4f4fd;
   border-radius: 4px;
   margin-bottom: 8px;
+}
+
+.section-four-li-plus {
+  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16),
+    0px 2px 1px rgba(46, 47, 66, 0.08);
+}
+
+.section-four-li-div-flex {
+  padding: 32px 0;
+}
+
+.social-network {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+}
+
+.soc-network {
+  width: 40px;
+  height: 40px;
+}
+
+.img-social-network {
+  width: 100%;
+  height: 100%;
+  background-color: var(--e-five-color);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.img-social-network:hover,
+.img-social-network:focus {
+  background-color: var(--hover-color);
 }
