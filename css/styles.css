@@ -408,6 +408,10 @@ body {
 .footer-p-flex {
   max-width: 264px;
   max-height: 72px;
+
+  line-height: 24px;
+
+  letter-spacing: 0.02em;
 }
 
 .portfolio-header-flex {
@@ -533,12 +537,17 @@ button {
   cursor: pointer;
 }
 
-.ficha-two {
-  visibility: hidden;
-}
-
-.our-portfolio {
-  visibility: hidden;
+.visually-hidden {
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  border: 0;
+  padding: 0;
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  margin: -1px;
 }
 
 .addr-one {
