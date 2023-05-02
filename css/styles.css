@@ -595,6 +595,7 @@ button {
   display: flex;
   justify-content: center;
   gap: 24px;
+  list-style-type: none;
 }
 
 .soc-network {
