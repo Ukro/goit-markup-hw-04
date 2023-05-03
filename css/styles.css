@@ -684,7 +684,6 @@ button {
 .footer-div-flex {
   display: flex;
   align-items: baseline;
-  margin-right: 120px;
 }
 
 .footer-p-social-media {
@@ -694,4 +693,12 @@ button {
   letter-spacing: 0.02em;
   color: #ffffff;
   margin-bottom: 16px;
+}
+
+.footer-div-logo {
+  margin-right: 120px;
+}
+
+.social-networks-plus {
+  gap: 16px;
 }
