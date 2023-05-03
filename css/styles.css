@@ -680,3 +680,8 @@ button {
 .customers-svg {
   fill: currentColor;
 }
+
+.footer-div-flex {
+  display: flex;
+  align-items: baseline;
+}
