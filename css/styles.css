@@ -699,16 +699,18 @@ button {
   gap: 16px;
 }
 
-.footer-div-social-media {
-  margin-right: 120px;
-}
-
 .hover-focus:hover,
 .hover-focus:focus {
   background-color: #31d0aa;
   background-color: #31d0aa;
 }
 
-.footer-div-flex {
+.footer-div-flex,
+.footer-div-logo,
+.footer-div-social-media {
   margin-right: 120px;
+}
+
+.strategy-pargraf-shrift-name {
+  margin-bottom: 8px;
 }
