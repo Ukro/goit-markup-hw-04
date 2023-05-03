@@ -705,9 +705,7 @@ button {
   background-color: #31d0aa;
 }
 
-.footer-div-flex,
-.footer-div-logo,
-.footer-div-social-media {
+.footer-div-logo {
   margin-right: 120px;
 }
 
