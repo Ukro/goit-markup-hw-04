@@ -702,3 +702,13 @@ button {
 .footer-div-social-media {
   margin-right: 120px;
 }
+
+.hover-focus:hover,
+.hover-focus:focus {
+  background-color: #31d0aa;
+  background-color: #31d0aa;
+}
+
+.footer-div-flex {
+  margin-right: 120px;
+}
