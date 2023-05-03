@@ -695,10 +695,10 @@ button {
   margin-bottom: 16px;
 }
 
-.footer-div-logo {
-  margin-right: 120px;
-}
-
 .social-networks-plus {
   gap: 16px;
+}
+
+.footer-div-social-media {
+  margin-right: 120px;
 }
